@@ -29,6 +29,7 @@ own ECL bundle.  Please see
 * [DatasetSkew.ecl](DatasetSkew.ecl)
 * [Factorial.ecl](Factorial.ecl)
 * [FuzzyStringSearch.ecl](FuzzyStringSearch.ecl)
+* [GroupedNumericStats.ecl](GroupedNumericStats.ecl)
 * [KeyValueStore.ecl](KeyValueStore.ecl)
 * [NotifyHelper.ecl](NotifyHelper.ecl)
 * [PlatformVersionCheck.ecl](PlatformVersionCheck.ecl)
@@ -42,6 +43,7 @@ own ECL bundle.  Please see
 * [Sets.ecl](Sets.ecl)
 * [Str.ecl](Str.ecl)
 * [UUID.ecl](UUID.ecl)
+* [VerticalSlice.ecl](VerticalSlice.ecl)
 * [WholeUpdate.ecl](WholeUpdate.ecl)
 * [WordNGrams.ecl](WordNGrams.ecl)
 
